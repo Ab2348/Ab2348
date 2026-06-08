@@ -1,15 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on educational web applications for math practice and academic productivity.
 
-👯 I’m looking to collaborate on open-source tools, learning platforms, and full-stack web projects.
-
-🤝 I’m looking for help with software architecture, backend development, testing, and deployment.
-
-🌱 I’m currently learning Computer Engineering, C programming, JavaScript, SCSS, FastAPI, databases, calculus, linear algebra, and physics.
-
-💬 Ask me about educational software, math practice tools, frontend development, and academic workflows.
-
-⚡ Fun fact: I build tools around what I’m learning so I can understand it more deeply.
+🔭 I’m currently working onEducational web applications for math practice and academic productivity. <br>👯 I’m looking to collaborate on Open-source tools, learning platforms, and full-stack web projects.<br>🤝 I’m looking for help with Software architecture, backend development, testing, and deployment.<br>🌱 I’m currently learning Computer Engineering, C programming, JavaScript, SCSS, FastAPI, databases, calculus, linear algebra, and physics.<br>💬 Ask me about Educational software, math practice tools, frontend development, and academic workflows.<br>⚡ Fun fact I build tools around what I’m learning so I can understand it more deeply.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Ab2348-_) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/charles_.montz) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:carlosmontes0983@gmail.com) 
