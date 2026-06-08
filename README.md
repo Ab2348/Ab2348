@@ -22,7 +22,6 @@
 ![MariaDB](https://img.shields.io/badge/mariadb-003545.svg?style=flat&logo=mariadb&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Ab2348&theme=monokai&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=Ab2348&theme=monokai&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ab2348&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
