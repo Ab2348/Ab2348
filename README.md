@@ -1,5 +1,21 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on  
+Educational web applications for math practice and academic productivity.
+
+👯 I’m looking to collaborate on  
+Open-source tools, learning platforms, and full-stack web projects.
+
+🤝 I’m looking for help with  
+Software architecture, backend development, testing, and deployment.
+
+🌱 I’m currently learning  
+Computer Engineering, C programming, JavaScript, SCSS, FastAPI, databases, calculus, linear algebra, and physics.
+
+💬 Ask me about  
+Educational software, math practice tools, frontend development, and academic workflows.
+
+⚡ Fun fact  
+I build tools around what I’m learning so I can understand it more deeply.
 
 
 ## 🌐 Socials:
